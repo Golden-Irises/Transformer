@@ -1,3 +1,3 @@
 # Transformer
-a simple transformer program
-![transformer.png](https://github.com/Golden-Irises/Transformer/blob/main/transformer.png))
+a simple transformer model
+![transformer.png](https://github.com/Golden-Irises/Transformer/blob/main/transformer.png)
